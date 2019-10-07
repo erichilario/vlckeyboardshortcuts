@@ -13,6 +13,7 @@ CTRL Right
 SHFT Left       Jump 5s back
 SHFT Right
 ALT Left        Jump 10s back
+ALT Right
 CTRL ALT Left   Jump 5 min back
 CTRL ALT Right
 E               Next frame
