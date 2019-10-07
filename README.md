@@ -3,10 +3,10 @@ My Most Used Keyboard Shortcuts for VLC Media Player
 https://wiki.videolan.org/QtHotkeys/
 
 ```
-+ Faster        (increments of 0.5)
-- Slower
-] Faster        (fine / increments of 0.1)
-[ Slower
++               Faster (increments of 0.5)
+-               Slower
+]               Faster (fine / increments of 0.1)
+[               Slower
 
 CTRL Left       Jump 1 min back
 CTRL Right
