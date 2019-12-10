@@ -18,8 +18,9 @@ CTRL ALT Left   Jump 5 min back
 CTRL ALT Right
 E               Next frame
 
-SHFT H          Sub sync / bookmark audio
-SHFT J          Sub sync / bookmark timestamp
+G               Sub sync (subtitle is behind sound)
+SHFT H          Sub sync (decrease delay, subtitles display after sound) / bookmark audio
+SHFT J          Sub sync (increase delay, subtitles display before sound) / bookmark timestamp
 SHFT K          Sub sync / bookmark audio&sub timestamps
 CTRL SHFT K     Reset audio&sub sync
 
