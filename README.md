@@ -23,6 +23,9 @@ SHFT H          Sub sync (decrease delay, subtitles display after sound) / bookm
 SHFT J          Sub sync (increase delay, subtitles display before sound) / bookmark timestamp
 SHFT K          Sub sync / bookmark audio&sub timestamps
 CTRL SHFT K     Reset audio&sub sync
+SHFT V          Disable / enable subtitle
+V               Cycle through subtitle tracks or disable
+
 
 J               Audio delay down
 K               Audio delay up
@@ -30,4 +33,7 @@ K               Audio delay up
 CTRL 0          Reset subtitle scale
 CTRL Mouse Up   Scale down subs
 CTRL Mouse Dn   Scale up subs
+
+SHFT N          Next chapter
+SHFT M          Previous chapter
 ```
